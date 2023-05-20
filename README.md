@@ -1,5 +1,5 @@
 # Disruptive-Architectures-IT-IoB-IA
-Repositório que irá abortar todas as tecnologias que envolvem Imteligência artificial e analitics do projeto VOCALIZE.
+# Repositório que irá abortar todas as tecnologias que envolvem Imteligência artificial e analitics do projeto VOCALIZE.
 
 ### Para melhor compreensão da aplicação criamos um arquivo que detalha com maior precisão como será todo o processo e esteira do nosso serviço no Mercado.
 #
