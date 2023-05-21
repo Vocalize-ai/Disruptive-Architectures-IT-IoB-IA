@@ -12,11 +12,11 @@ print(req.text)
 
 id_modelo = "gpt-3.5-turbo"
 
-body_mensagem = {
-  "model":id_modelo,
-  "messages": [{"role": "user", "content": f"{userSpeech: await regeneratSpeech(userSpeech)}"}]
-}
-body_mensagem = json.dumps(body_mensagem)
+# body_mensagem = {
+#   "model":id_modelo,
+#   "messages": [{"role": "user", "content": f"{userSpeech: await regeneratSpeech(userSpeech)}"}]
+# }
+# body_mensagem = json.dumps(body_mensagem)
 
 {
   "model": "gpt-3.5-turbo",
