@@ -4,7 +4,7 @@ Reposítório criado para integrar todas as ferramentas que envolvam Inteligênc
 
 # Documentação Projeto:
 
-### Para melhor compreensão da aplicação criamos um arquivo que detalha com maior precisão como será todo o processo e esteira do nosso serviço no Mercado.
+Para melhor compreensão da aplicação criamos um arquivo que detalha com maior precisão como será todo o processo e esteira do nosso serviço no Mercado.
 #
 ### Documento: 
 
