@@ -10,3 +10,4 @@ pip install azure-cognitiveservices-speech
 # Api chat-GPT
 pip install openai
 pip install requests
+pip install fuzzywuzzy
